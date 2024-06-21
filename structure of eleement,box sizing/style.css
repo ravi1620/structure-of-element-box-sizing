@@ -1,0 +1,31 @@
+img{
+    display:inline-block;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 15px;
+    border: 10px groove skyblue;
+    filter: drop-shadow(10);
+    filter: grayscale(20);
+    width: 300px;
+}
+#amir{
+    filter: invert(10);
+
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: black;
+    background-color: white;
+    text-align: center;
+    border-radius: 30px;
+    box-sizing: content-box;
+    padding:15px;
+    margin:10px;
+}
+#mainHeading:hover{
+    background-color: black;
+    color: aliceblue;
+
+}
